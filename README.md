@@ -82,3 +82,24 @@ Created and maintained by
 **Neural Alchemist** & **Shadow PhanTom**  
 Members of **SDA (Silicon Dream Artists)**  
 May 2025
+https://sda.studio/0010
+
+
+## 🔗 Related Repositories
+
+This canon defines the architecture used across the following active components of the SovereignTrust ecosystem:
+
+- [SignalGraph](https://github.com/SiliconDreamArtists/SignalGraph)  
+  Core cross-language contract for sovereign agents and intent routing
+
+- [SDAUtilities](https://github.com/SiliconDreamArtists/SDAUtilities)  
+  General-purpose helpers and queue-based creative automation tools
+
+- [SovereignTrust.Relay](https://github.com/SiliconDreamArtists/SovereignTrust.Relay)  
+  Serverless input relay for Discord, Slack, Webhooks, etc.
+
+- [SovereignTrust.Foundation](https://github.com/SiliconDreamArtists/SovereignTrust.Foundation)  
+  Core protocol commands, Signal infrastructure, and runtime logic
+
+- [SovereignTrust.Adapters](https://github.com/SiliconDreamArtists/SovereignTrust.Adapters)  
+  Modular capability surfaces for hydration, memory resolution, and agent mounting
