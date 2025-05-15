@@ -74,7 +74,7 @@ This codex is intended for:
 
 ## 🧾 License
 
-This repository is released under the MIT License with Sovereign Attribution. See `LICENSE.md` for terms.
+This repository is released under the Creative Commons Attribution 4.0 International License, with Sovereign Attribution. See 'LICENSE.md' for usage terms and attribution format.
 
 ---
 
