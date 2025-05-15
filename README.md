@@ -80,5 +80,5 @@ This repository is released under the Creative Commons Attribution 4.0 Internati
 
 Created and maintained by  
 **Neural Alchemist** & **Shadow PhanTom**  
-Founders of **SDA (Silicon Dream Artists)**  
+Members of **SDA (Silicon Dream Artists)**  
 2025
