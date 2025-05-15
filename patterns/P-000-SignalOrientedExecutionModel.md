@@ -52,5 +52,7 @@ The **Signal-Oriented Execution Model (SOEM)** is a software design pattern in w
 **Pattern Name**: Signal-Oriented Execution Model  
 **Pattern Class**: Sovereign Execution Flow  
 **Glyph**: 📡🧠  
+**Version**: 1.0
+**Date**: 2025-05-14
 **Originators**: Shadow PhanTom, Neural Alchemist  
 **First Use**: SDA MemoryBox System, 2025
