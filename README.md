@@ -4,7 +4,7 @@
 
 Welcome to the **SDA.Codex**, the official repository of sovereign software patterns, doctrine documents, and sample reference content for the **SovereignTrust** protocol.
 
-This repository provides the canonical definitions and field-tested designs behind the **signal-first, lineage-preserving, memory-sovereign** computing architecture that powers SDA systems like **Fusion**, **Conduction**, and **MemoryBox**.
+This repository provides the canonical definitions and field-tested designs behind the **signal-first, lineage-preserving, memory-sovereign** computing architecture that powers SDA systems like **SDA Fusion**, **SDA Frame**, and **Ansi Adams Singularity Mesh**.
 
 ---
 
